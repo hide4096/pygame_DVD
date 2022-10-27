@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2022 Aso Hidetoshi asouhide2002@gmaiil.com
 
 import pygame
 import sys
